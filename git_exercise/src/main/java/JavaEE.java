@@ -4,5 +4,7 @@ public class JavaEE {
         System.out.println("shit,loser!!!!");
 
         Integer id;
+
+        String name;
     }
 }
